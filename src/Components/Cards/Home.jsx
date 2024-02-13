@@ -45,7 +45,7 @@ function Home() {
         href='https://fonts.googleapis.com/css?family=Alatsi&display=swap'
         rel='stylesheet'
       />
-        <h1 className='w-[80%]'>Hey, Looks Like We Got Something For You!</h1>
+        <h1 className='w-[80%]'>Hey, Looks Like We Got A Message For You</h1>
         <div className='h-[10px]' />
         {/* <img src='./image/img1.png' alt='img' className='h-[200px] rounded-lg border-2 border-white' /> */}
         <div onClick={handleClick}>

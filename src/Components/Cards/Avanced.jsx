@@ -9,7 +9,7 @@ const db = [
     name: 'Would you be my valentine',
     url: './image/img5.png',
     textStyle: 'card5',
-    btn: "Alrighttt!"
+    btn: "Ummmmm!"
   },
   {
     name: 'I want to make this into something deeper',
